@@ -1,4 +1,4 @@
-## Technical Leadership & Career articles / resources
+## Technical Leadership & Career resources
 
 
 ### Leadership Articles
