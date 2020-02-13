@@ -12,3 +12,6 @@
 
 - [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
 
+### Guidelines
+
+- [Tech Lead Expectations Guidelines](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit#) by Gergely Orosz
