@@ -24,3 +24,6 @@
 
 - 📝 [How To Scale Software Development Teams](https://linearb.io/blog/how-to-scale-software-development-teams/)
 
+### A different perspective
+
+- 📝 [You are not a commodity](https://softwareengineeringdaily.com/2016/08/07/you-are-not-a-commodity/)
