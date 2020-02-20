@@ -8,6 +8,10 @@
 - 📝 [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) by Gergely Orosz
 - 📝 [Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md) by Webflow 
 
+### Writing
+
+- 📝 [A primer on documentation content strategy](https://increment.com/documentation/primer-on-documentation-content-strategy/) by Stephanie Blotner 
+- 📝 [Why it’s worth it to invest in internal docs](https://increment.com/documentation/why-investing-in-internal-docs-is-worth-it/) by David Nunez 
 
 ### Career Articles
 
@@ -17,13 +21,14 @@
 
 - 📝 [Tech Lead Expectations Guidelines](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit#) by Gergely Orosz
 
-### Scaling teams
+### Scaling teams / Hiring
 
 
 - 📚 Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 - 📚 DevOps Handbook
 
 - 📝 [How To Scale Software Development Teams](https://linearb.io/blog/how-to-scale-software-development-teams/)
+- 📝 [Cold Sourcing](https://lethain.com/cold-sourcing/) by Will Larson
 
 ### A different perspective
 
