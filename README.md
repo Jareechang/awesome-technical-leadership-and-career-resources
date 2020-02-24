@@ -16,6 +16,7 @@
 ### Career Articles
 
 - 📝 [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
+- 📝 [More than Coding: What is Exploratory Work?](https://blog.bonnieeisenman.com/blog/senior-work/) by [Bonnie Eisenman](https://blog.bonnieeisenman.com/)
 
 ### Guidelines
 
