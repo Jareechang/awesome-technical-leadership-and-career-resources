@@ -30,6 +30,8 @@
 
 - 📝 [How To Scale Software Development Teams](https://linearb.io/blog/how-to-scale-software-development-teams/)
 - 📝 [Cold Sourcing](https://lethain.com/cold-sourcing/) by Will Larson
+- 📝 [Up or out: solving the it turnover crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis) by Alex Papadimoulis
+
 
 ### A different perspective
 
