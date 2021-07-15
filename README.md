@@ -17,6 +17,8 @@
 
 - 📝 [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
 - 📝 [More than Coding: What is Exploratory Work?](https://blog.bonnieeisenman.com/blog/senior-work/) by [Bonnie Eisenman](https://blog.bonnieeisenman.com/)
+- 📝 [What does a Director of Engineering do?](https://www.hashtagcoder.dev/blog/director-of-engineering) by [Hashtag Coder](https://www.hashtagcoder.dev/)
+- 📝 [What does a Senior Software Engineer do?](https://www.hashtagcoder.dev/blog/senior-software-engineer) by [Hashtag Coder](https://www.hashtagcoder.dev/)
 
 ### Guidelines
 
