@@ -3,9 +3,9 @@
 
 ### Leadership Articles
 
-- 📝 [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/) by Keavy McMinn
-- 📝 [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/) by Gergely Orosz
-- 📝 [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) by Gergely Orosz
+- 📝 [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/) by [Keavy McMinn](https://keavy.com/)
+- 📝 [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/) by [Gergely Orosz](https://blog.pragmaticengineer.com/author/gergely/)
+- 📝 [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) by [Gergely Orosz](https://blog.pragmaticengineer.com/author/gergely/)
 - 📝 [Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md) by Webflow 
 
 ### Writing
@@ -20,6 +20,9 @@
 - 📝 [What does a Director of Engineering do?](https://www.hashtagcoder.dev/blog/director-of-engineering) by [Hashtag Coder](https://www.hashtagcoder.dev/)
 - 📝 [What does a Senior Software Engineer do?](https://www.hashtagcoder.dev/blog/senior-software-engineer) by [Hashtag Coder](https://www.hashtagcoder.dev/)
 - 📝 [Brag Documents](https://jvns.ca/blog/brag-documents/) by [Julia Evans](https://jvns.ca)
+
+- [Salary Negotiation thread 1](https://twitter.com/sriramk/status/1221890836364812288) by [Sriram Krishnan](https://twitter.com/sriramk)
+- [Salary Negotiation thread 2](https://twitter.com/mochievous/status/1229731519570292738) by [@Mochievous](https://twitter.com/Mochievous)
 
 ### Guidelines
 
