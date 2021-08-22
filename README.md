@@ -24,6 +24,8 @@
 - [Salary Negotiation thread 1](https://twitter.com/sriramk/status/1221890836364812288) by [Sriram Krishnan](https://twitter.com/sriramk)
 - [Salary Negotiation thread 2](https://twitter.com/mochievous/status/1229731519570292738) by [@Mochievous](https://twitter.com/Mochievous)
 
+- [Grow your best employees or lose them](https://twitter.com/travismcpeak/status/1429191407453933569) by [@travismcpeak](https://twitter.com/travismcpeak)
+
 ### Guidelines
 
 - 📝 [Tech Lead Expectations Guidelines](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit#) by Gergely Orosz
