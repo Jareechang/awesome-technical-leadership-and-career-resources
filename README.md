@@ -25,6 +25,7 @@
 - [Salary Negotiation thread 2](https://twitter.com/mochievous/status/1229731519570292738) by [@Mochievous](https://twitter.com/Mochievous)
 
 - [Grow your best employees or lose them](https://twitter.com/travismcpeak/status/1429191407453933569) by [@travismcpeak](https://twitter.com/travismcpeak)
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) by [Justin Etheredge](https://www.simplethread.com/author/jetheredge/)
 
 ### Guidelines
 
