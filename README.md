@@ -7,6 +7,8 @@
 - 📝 [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/) by [Gergely Orosz](https://blog.pragmaticengineer.com/author/gergely/)
 - 📝 [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) by [Gergely Orosz](https://blog.pragmaticengineer.com/author/gergely/)
 - 📝 [Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md) by Webflow 
+- 📝 [Where to Start ?](https://keavy.com/work/where-to-start/) by [Keavy McMinn](https://keavy.com/)
+- 📝 [Technical Research and Preparation](https://keavy.com/work/technical-preparation/) by [Keavy McMinn](https://keavy.com/)
 
 ### Writing
 
