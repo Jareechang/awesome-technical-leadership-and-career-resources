@@ -30,7 +30,10 @@
 
 - 🐦 [Grow your best employees or lose them](https://twitter.com/travismcpeak/status/1429191407453933569) by [@travismcpeak](https://twitter.com/travismcpeak)
 - 🐦 [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) by [Justin Etheredge](https://www.simplethread.com/author/jetheredge/)
-- 🐦 [[Career Advancement Tip](https://twitter.com/shaundai/status/1483956048214077445) by [Shaundai Person](https://twitter.com/shaundai)
+- 🐦 [Career Advancement Tip](https://twitter.com/shaundai/status/1483956048214077445) by [Shaundai Person](https://twitter.com/shaundai)
+
+- 🐦 [10 competitive advantage you can start developing today](https://twitter.com/SahilBloom/status/1373279793353879556) By [Sahil Bloom](https://twitter.com/SahilBloom)
+
 
 ### Learning & on-going development
 
@@ -55,4 +58,7 @@
 ### A different perspective
 
 - 📝 [You are not a commodity](https://softwareengineeringdaily.com/2016/08/07/you-are-not-a-commodity/)
-- “In the modern world, don’t minimize your risks - maximize your opportunities” - [Naval](https://twitter.com/naval)
+- 🐦 “In the modern world, don’t minimize your risks - maximize your opportunities” - [Naval](https://twitter.com/naval)
+- 🐦 [Shane Parrish’s Top Ten Tweets](https://twitter.com/ShaneAParrish/status/1477617574217232390)
+- 🐦 [On college education and learning](https://twitter.com/balajis/status/1472506515248476167) By [Balaji Srinivasan](https://twitter.com/balajis)
+
