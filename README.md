@@ -25,14 +25,15 @@
 - 📝 [What does a Senior Software Engineer do?](https://www.hashtagcoder.dev/blog/senior-software-engineer) by [Hashtag Coder](https://www.hashtagcoder.dev/)
 - 📝 [Brag Documents](https://jvns.ca/blog/brag-documents/) by [Julia Evans](https://jvns.ca)
 
+
 - 🐦 [Salary Negotiation thread 1](https://twitter.com/sriramk/status/1221890836364812288) by [Sriram Krishnan](https://twitter.com/sriramk)
 - 🐦 [Salary Negotiation thread 2](https://twitter.com/mochievous/status/1229731519570292738) by [@Mochievous](https://twitter.com/Mochievous)
-
 - 🐦 [Grow your best employees or lose them](https://twitter.com/travismcpeak/status/1429191407453933569) by [@travismcpeak](https://twitter.com/travismcpeak)
 - 🐦 [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) by [Justin Etheredge](https://www.simplethread.com/author/jetheredge/)
 - 🐦 [Career Advancement Tip](https://twitter.com/shaundai/status/1483956048214077445) by [Shaundai Person](https://twitter.com/shaundai)
 
 - 🐦 [10 competitive advantage you can start developing today](https://twitter.com/SahilBloom/status/1373279793353879556) By [Sahil Bloom](https://twitter.com/SahilBloom)
+- 🐦 [5 questions I have or wished I'd asked of my future managers](https://twitter.com/lilykonings/status/1484598087494496258) By [Lily Konings](https://twitter.com/lilykonings)
 
 
 ### Learning & on-going development
