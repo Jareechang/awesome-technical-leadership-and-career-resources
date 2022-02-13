@@ -9,6 +9,8 @@
 - 📝 [Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md) by Webflow 
 - 📝 [Where to Start ?](https://keavy.com/work/where-to-start/) by [Keavy McMinn](https://keavy.com/)
 - 📝 [Technical Research and Preparation](https://keavy.com/work/technical-preparation/) by [Keavy McMinn](https://keavy.com/)
+- 📝 [Principal and Agent](https://nav.al/principal-agent) by [Naval](https://nav.al)
+    - 🐦 [Principal and Agent Problem](https://twitter.com/SahilBloom/status/1492479669710602242) by [Sahil Bloom](https://twitter.com/SahilBloom)
 - 🐦 [Thread on Leading well](https://twitter.com/wdmorrisjr/status/1482718036758917122) by [David Morris](https://twitter.com/wdmorrisjr)
 - 📚 Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
 
