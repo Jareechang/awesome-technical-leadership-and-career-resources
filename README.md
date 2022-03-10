@@ -13,6 +13,7 @@
     - 🐦 [Principal and Agent Problem](https://twitter.com/SahilBloom/status/1492479669710602242) by [Sahil Bloom](https://twitter.com/SahilBloom)
 - 🐦 [Thread on Leading well](https://twitter.com/wdmorrisjr/status/1482718036758917122) by [David Morris](https://twitter.com/wdmorrisjr)
 - 📚 Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
+- 🐦 [Thread on Delegation](https://twitter.com/wdmorrisjr/status/1482718036758917122) by [David Kline](https://twitter.com/dklineii)
 
 ### Writing
 
