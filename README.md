@@ -37,6 +37,7 @@
 
 - 🐦 [10 competitive advantage you can start developing today](https://twitter.com/SahilBloom/status/1373279793353879556) By [Sahil Bloom](https://twitter.com/SahilBloom)
 - 🐦 [5 questions I have or wished I'd asked of my future managers](https://twitter.com/lilykonings/status/1484598087494496258) By [Lily Konings](https://twitter.com/lilykonings)
+- 🐦 [5 traps to avoid when working at a big company](https://twitter.com/arvanaghi/status/1504523654801022987) By [randon Arvanaghi](https://twitter.com/arvanaghi)
 
 
 ### Learning & on-going development
