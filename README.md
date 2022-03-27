@@ -9,6 +9,7 @@
 - 📝 [Webflow Tech Lead Guide](https://github.com/webflow/leadership/blob/master/tech_lead.md) by Webflow 
 - 📝 [Where to Start ?](https://keavy.com/work/where-to-start/) by [Keavy McMinn](https://keavy.com/)
 - 📝 [Technical Research and Preparation](https://keavy.com/work/technical-preparation/) by [Keavy McMinn](https://keavy.com/)
+- 📝 [Building Bridges](https://keavy.com/work/building-bridges/) by [Keavy McMinn](https://keavy.com/)
 - 📝 [Principal and Agent](https://nav.al/principal-agent) by [Naval](https://nav.al)
     - 🐦 [Principal and Agent Problem](https://twitter.com/SahilBloom/status/1492479669710602242) by [Sahil Bloom](https://twitter.com/SahilBloom)
 - 🐦 [Thread on Leading well](https://twitter.com/wdmorrisjr/status/1482718036758917122) by [David Morris](https://twitter.com/wdmorrisjr)
@@ -34,11 +35,9 @@
 - 🐦 [Grow your best employees or lose them](https://twitter.com/travismcpeak/status/1429191407453933569) by [@travismcpeak](https://twitter.com/travismcpeak)
 - 🐦 [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) by [Justin Etheredge](https://www.simplethread.com/author/jetheredge/)
 - 🐦 [Career Advancement Tip](https://twitter.com/shaundai/status/1483956048214077445) by [Shaundai Person](https://twitter.com/shaundai)
-
 - 🐦 [10 competitive advantage you can start developing today](https://twitter.com/SahilBloom/status/1373279793353879556) By [Sahil Bloom](https://twitter.com/SahilBloom)
 - 🐦 [5 questions I have or wished I'd asked of my future managers](https://twitter.com/lilykonings/status/1484598087494496258) By [Lily Konings](https://twitter.com/lilykonings)
 - 🐦 [5 traps to avoid when working at a big company](https://twitter.com/arvanaghi/status/1504523654801022987) By [randon Arvanaghi](https://twitter.com/arvanaghi)
-
 
 ### Learning & on-going development
 
