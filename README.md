@@ -29,7 +29,6 @@
 - 📝 [What does a Senior Software Engineer do?](https://www.hashtagcoder.dev/blog/senior-software-engineer) by [Hashtag Coder](https://www.hashtagcoder.dev/)
 - 📝 [Brag Documents](https://jvns.ca/blog/brag-documents/) by [Julia Evans](https://jvns.ca)
 
-
 - 🐦 [Salary Negotiation thread 1](https://twitter.com/sriramk/status/1221890836364812288) by [Sriram Krishnan](https://twitter.com/sriramk)
 - 🐦 [Salary Negotiation thread 2](https://twitter.com/mochievous/status/1229731519570292738) by [@Mochievous](https://twitter.com/Mochievous)
 - 🐦 [Grow your best employees or lose them](https://twitter.com/travismcpeak/status/1429191407453933569) by [@travismcpeak](https://twitter.com/travismcpeak)
@@ -42,6 +41,7 @@
 ### Learning & on-going development
 
 - 🐦 [Learning Process](https://twitter.com/dabit3/status/1483643497127321602) by [Nader Dabit](https://twitter.com/dabit3)
+- 📝 [Programmer’s pyramid](https://programmerspyramid.com/) by [Amy Haddad](https://programmerspyramid.com/about/)
 
 ### Guidelines
 
